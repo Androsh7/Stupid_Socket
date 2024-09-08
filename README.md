@@ -4,13 +4,13 @@ This is a class based on the windows guide to socket programming <insert link he
 
 ## TODO
 
-[ ] Windows Client
-  [X] Send TCP
-  [X] Recv TCP
-  [ ] Send UDP
-  [ ] Recv UDP
-[ ] Windows Server
-  [ ] Send TCP
-  [ ] Recv TCP
-  [ ] Send UDP
-  [ ] Recv UDP
+- [ ] Windows Client
+  - [X] Send TCP
+  - [X] Recv TCP
+  - [ ] Send UDP
+  - [ ] Recv UDP
+- [ ] Windows Server
+  - [ ] Send TCP
+  - [ ] Recv TCP
+  - [ ] Send UDP
+  - [ ] Recv UDP
